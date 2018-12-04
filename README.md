@@ -1,2 +1,5 @@
 # restApiIpssiMarc
-restApiIpssi
+
+Setup :
+- `mongod`
+- `node app.js`
